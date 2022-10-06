@@ -16,7 +16,7 @@ $(document).ready(function() {
     {
       column: 'nonlearner',
       name: 'Non-Learners',
-      color: 'grey'
+      color: 'orange'
     },
     {
       column: 'learner',
